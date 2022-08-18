@@ -1,6 +1,21 @@
 title:Stephen's Phat Rolls
 description:PvP and PvE
 
+// Nezarec's Whisper - Full v1 (pve,pvp)
+//notes: MW:  tags:pve,pvp
+dimwishlist:item=254636484&perks=580685494,3142289711,3523296417,2224838837,1250481499
+
+
+// Nezarec's Whisper - Full v2 (pve)
+//notes: MW:  tags:pve
+dimwishlist:item=254636484&perks=580685494,3142289711,3096702027,1048183818,1250481499
+
+
+// Nezarec's Whisper - Perk v2 (pve)
+//notes: MW:  tags:pve
+dimwishlist:item=254636484&perks=3096702027,1048183818,1250481499
+
+
 // Pointed Inquiry - Full v1 (pve)
 //notes: MW: Handling tags:pve
 dimwishlist:item=297296830&perks=839105230,1968497646,3096702027,1048183818,1471995745
@@ -602,6 +617,27 @@ dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,3592538738,39
 dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,2652708987,3988215619
 dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,11612903,3988215619
 dimwishlist:item=2513965917&perks=2801223209,3827198035,2846385770,3592538738,3988215619
+
+
+// Lunulata-4b - Perk v1 (Stasis build) (pve)
+//notes: MW: Draw (polymer string) or Accuracy (elastic string) tags:pve
+dimwishlist:item=2513965917&perks=2846385770,124408337,3988215619
+dimwishlist:item=2513965917&perks=2846385770,2610012052,3988215619
+
+
+// Lunulata-4b - Perk v2 (Shoot to Loot build) (pve)
+//notes: MW: Draw (polymer string) or Accuracy (elastic string) tags:pve
+dimwishlist:item=2513965917&perks=3700496672,3592538738,3988215619
+dimwishlist:item=2513965917&perks=3700496672,2652708987,3988215619
+dimwishlist:item=2513965917&perks=3700496672,124408337,3988215619
+dimwishlist:item=2513965917&perks=3700496672,11612903,3988215619
+
+
+// Lunulata-4b - Perk v3 (pve,pvp)
+//notes: MW: Draw (polymer string) or Accuracy (elastic string) tags:pve,pvp
+dimwishlist:item=2513965917&perks=2846385770,2652708987,3988215619
+dimwishlist:item=2513965917&perks=2846385770,11612903,3988215619
+dimwishlist:item=2513965917&perks=2846385770,3592538738,3988215619
 
 
 // Compass Rose - Full v1 (pve)
